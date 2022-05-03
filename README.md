@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Homework 
 This repo is set up to submit the week 1 homework assignment. the read.me includes a link to the site below;
 
 
