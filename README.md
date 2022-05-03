@@ -1,4 +1,6 @@
 # Code Refactor Starter Code
+This repo is set up to submit the week 1 homework assignment. the read.me includes a link to the site below;
+
 
 
 Deployed link:
@@ -8,7 +10,7 @@ Source code:
 https://github.com/scrosa22/hw01-srosa
 
 
-![Readme site screenshot](./assets/images/hw1.1.JPG "hw1 accessibility")
+![Readme site screenshots](./assets/images/hw1.1.JPG "hw1 accessibility")
 
 ![](./assets/images/hw1.2.JPG)
 ![](./assets/images/hw1.3.JPG)
